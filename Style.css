@@ -1,0 +1,11 @@
+#paragraf_pertama{
+  background-color: red;
+}
+#paragraf_kedua{
+  font-size: 14px;
+  background-color: blue;
+}
+#paragraf_keempat{
+  font-weight: 900;
+  background-color: grey;
+}
